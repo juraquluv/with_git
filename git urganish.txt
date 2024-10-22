@@ -1,0 +1,10 @@
+proyekt ichiga kiramiz gitbash orqali
+git init --- proyektni githubga ulash
+git config --global user.name "Elbek" --- global sozlanmani qilish
+git config --global user.email "juraquluvelbek13@gmail.com"  --- bu ham global sozlanma
+git status --- qaysi fayl gitga qo'yilmaganini korsatadi
+git add -A --- hammasini gitga qo'yadi
+git status --- (git add -A) keyin yana ishlatamiz.
+git commit -m "o'rganish uchun qo'shdim" --- izoh yozish (shart)
+githubga o'tib repozitory yaratamiz
+git remote add origin git@github.com:juraquluv/with_git.git --- yaratgan repozitorimizga qo'shish un(har yangi repozitory yaratsam yangi beradi o'zi)
